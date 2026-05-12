@@ -9,7 +9,7 @@ body:
   - type: textarea
     id: metadata
     attributes:
-      label: ""
+      label: "Issue"
       value: |
         ## Critério analisado
 
