@@ -6,8 +6,7 @@ labels:
   - R 1.1
 
 body:
-  - type: textarea
-    id: metadata
+  - type: markdown
     attributes:
       value: |
         ## Critério analisado
